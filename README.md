@@ -1,1 +1,3 @@
-Notebooks that involve creating applications using LangChain and fine tuning various LLMs on custom data
+This project has two notebooks.
+The first one involves an example of finetuning GPT3.5 on a custom dataset. The 
+second notebook shows an example of using RAG to query a document using GPT3.5.
